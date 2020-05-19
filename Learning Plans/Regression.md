@@ -17,6 +17,9 @@
 - **Solve using Python/R :** [Vehicle Data : y(Mileage)](https://github.com/KunaalNaik/Data_Science/blob/master/Learning%20Plans/Regression_Excel_Vehicle_Data.csv)
 - **Solve using Python/R :** [Air Quality Data on UCI](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
 
-## 5/Solve on Kaggle (Preferably on Kaggle Platform itself)
+## 5/Read/Watch More
+- **Watch :**[Linear Regression vs Logistic Regression](https://www.youtube.com/watch?v=OCwZyYH14uw)
+
+## 6/Solve on Kaggle (Preferably on Kaggle Platform itself)
 - **Solve using Python/R :** [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
