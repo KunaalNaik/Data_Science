@@ -10,6 +10,12 @@
 - [StatQuest: Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8)
 
 ## Solve Regresion using Excel
-- [Watch : Excel - Simple Linear Regression](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
-- [Solve : ]
+- **Watch :** [Excel - Simple Linear Regression](https://www.youtube.com/watch?v=Cltt47Ah3Q4)
+- **Solve using Excel :** [Vehicle Data : y(Mileage)](https://github.com/KunaalNaik/Data_Science/blob/master/Learning%20Plans/Regression_Excel_Vehicle_Data.csv)
+
+## Solve Using Python/R
+- **Solve using Python/R :** [Vehicle Data : y(Mileage)](https://github.com/KunaalNaik/Data_Science/blob/master/Learning%20Plans/Regression_Excel_Vehicle_Data.csv)
+- **Solve using Python/R :** [Air Quality : y(Mileage)](https://archive.ics.uci.edu/ml/datasets/Air+Quality)
+
+
 
