@@ -13,6 +13,7 @@
 - [Pandas Basics, codebasics](https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 - [Python Pandas Tutorial | Pandas For Data Analysis, Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 - [Complete Python Pandas Data Science Tutorial!, Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg)
+- [Learn Pandas Dataframe Basics with Business Context, Kunaal Naik](https://www.youtube.com/watch?v=JzXgl-xSVDQ)
 
 ## 4/Tips and Tricks
 - [Pandas top 25 Tricks, Data School](https://www.youtube.com/watch?v=RlIiVeig3hc)
