@@ -1,0 +1,2 @@
+https://towardsdatascience.com/recency-frequency-monetary-model-with-python-and-how-sephora-uses-it-to-optimize-their-google-d6a0707c5f17
+https://www.kaggle.com/carrie1/ecommerce-data
